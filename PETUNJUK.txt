@@ -1,0 +1,22 @@
+WEBSITE R.arshaq — 6 HALAMAN
+
+Struktur folder:
+R_arshaq_website/
+  index.html       = Home
+  tentang.html     = Tentang Saya
+  keahlian.html    = Keahlian
+  perjalanan.html  = Perjalanan
+  portofolio.html  = Portofolio
+  kontak.html      = Kontak
+  style.css        = Desain hitam-emas
+  script.js        = Menu ponsel dan tahun footer
+  foto.jpg         = Foto profil kamu (tambahkan sendiri)
+
+Cara memakai:
+1. Ekstrak ZIP ini ke folder.
+2. Letakkan foto profil milikmu di folder yang sama dengan index.html dan beri nama foto.jpg.
+3. Buka index.html di browser untuk mencoba website.
+4. Semua menu membuka file HTML yang berbeda.
+5. Untuk menerbitkan di Netlify, unggah folder yang berisi semua file di atas, termasuk foto.jpg.
+
+Catatan: foto.jpg tidak disertakan. Gunakan foto profil milikmu sendiri.
